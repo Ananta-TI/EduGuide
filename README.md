@@ -1,7 +1,9 @@
 # EduGuide - Panduan Akademik Mahasiswa
+
 <p align="center">
   <img src="assets/image/2.png" alt="Home Screen" width="560"/>
 </p>
+
 EduGuide adalah aplikasi mobile sederhana berbasis **React Native** yang dirancang untuk membantu mahasiswa mengakses informasi akademik secara mudah dan cepat. Aplikasi ini menyediakan fitur daftar mata kuliah, detail mata kuliah, profil mahasiswa, lokasi kampus, serta aksi intent seperti membuka Google Maps, mengirim email, menghubungi dosen, dan membagikan informasi mata kuliah.
 
 Aplikasi ini dikembangkan sebagai tugas mobile programming dengan penerapan navigasi antar screen, passing data, bottom navigation, daftar data menggunakan FlatList sebagai padanan RecyclerView pada React Native, serta penggunaan explicit dan implicit intent.
